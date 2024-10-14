@@ -18,7 +18,7 @@ export default function Page() {
       <hr className="my-4 border-gray-300" />
       <p className="mb-4">
         {`Hi there! I'm Alberto Ornelas, a passionate Systems Engineer with +2 years of
-        experience in designging, implementing, and optimizing complex systems. My
+        experience in designing, implementing, and optimizing complex systems. My
         journey in engineering has allowed me to work across various industries,
         including package delivery services, e-commerce, restaurants, invoice
         management, and promotional and giveway applications, where I have honed 
